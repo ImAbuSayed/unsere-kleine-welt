@@ -15,7 +15,7 @@
 | **Written On** | June 30, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/unsere-kleine-welt/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Unsere kleine Welt](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/unsere-kleine-welt/) |
+| **Get License** | [Request Licensing for Unsere kleine Welt](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/unsere-kleine-welt/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Steig in den Matt-Black-Benz, Babe, die Stadt gehört uns
+> Spür den Drill in den Boxen, den Bass in der Brust
+> Heute Nacht keine Limits, nur dein Blick, der mich lenkt
+> Unsre kleine Welt, Babe, weil uns niemand hier trennt
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
