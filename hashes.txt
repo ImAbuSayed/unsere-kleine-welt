@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Unsere kleine Welt
+
+This log tracks the cryptographic history and versioning for the song **Unsere kleine Welt** (unsere-kleine-welt).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-30T23:33:10.945668 | `v1` | `fc62476d58d40fbdfc6acfd634e125c4fd0ffdc5119eefa4b9f13137d706dda0` | `916dccd6556f9f429d4ec3e94c07cb1f2301dc94aa82a51a2eabb8cc3d66f76e` | `2026-06-30_unsere-kleine-welt-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

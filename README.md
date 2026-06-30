@@ -15,7 +15,7 @@
 | **Written On** | June 30, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/unsere-kleine-welt/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Unsere kleine Welt](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/unsere-kleine-welt/) |
+| **Get License** | [Official Music Licensing for Unsere kleine Welt](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/unsere-kleine-welt/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `fc62476d58d40fbdfc6acfd634e125c4fd0ffdc5119eefa4b9f13137d706dda0` |
 | **Timestamp** | June 30, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
